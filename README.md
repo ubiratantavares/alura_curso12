@@ -17,3 +17,5 @@
 * Código para consumir API
 
 * Consumindo dados de séries
+
+* Desserializando dados
